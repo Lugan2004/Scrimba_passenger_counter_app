@@ -1,0 +1,47 @@
+body{
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    background: aliceblue;
+    
+    
+}
+h1 {
+   
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+h2 {
+    font-size: 50px;
+    margin-top:0;
+    margin-bottom: 20px;
+
+}
+button{
+   
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 40px;
+    width: 140px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+}
+#increment-btn{
+    background: linear-gradient(rgb(119, 236, 119),rgb(23, 166, 233));
+}
+#del-btn{
+    background: linear-gradient(rgb(193, 109, 245),rgb(222, 12, 215));
+
+}
+#save-btn{
+    background: linear-gradient(rgb(236, 23, 23),rgb(233, 107, 23));
+
+}
+
+
+
+
+
+
